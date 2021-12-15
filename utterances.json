@@ -1,3 +1,6 @@
 {
-  "origins": ["https://xchens.cn"]
+  "origins": [
+    "https://xchens.cn",
+    "https://cshsonice.gitee.io"
+  ]
 }
